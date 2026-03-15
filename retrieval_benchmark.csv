@@ -1,0 +1,81 @@
+collection,query_id,query,type,difficulty,precision,recall
+fixed__local,Q01,What major shift in consumer behavior did GCPL observe across its markets during FY 2020-21?,inferential,easy,0.2,0.167
+fixed__local,Q02,When did GCPL conduct the extensive materiality exercise that formed the basis for its reporting methodology in subsequent years?,factual,hard,0.8,0.4
+fixed__local,Q03,What was the percentage of representation for local ethnic talent in GCPL's Africa senior leadership roles during FY 2021-22?,factual_numeric,hard,0.8,1.0
+fixed__local,Q04,How many financial years had GCPL maintained a status of sending zero waste to landfills by the end of FY 2022-23?,factual_numeric,medium,0.8,0.75
+fixed__local,Q05,"How did GCPL's consolidated revenue and volume grow in FY 2022-23, and how did the Chairperson characterize the year's performance?",factual_numeric,medium,0.4,0.667
+fixed__local,Q06,What specific strategic change was implemented in the Indonesia business to simplify sales and distribution during FY 2022-23?,factual,medium,1.0,0.8
+fixed__local,Q07,"What was the total R&D expenditure for GCPL in FY 2023-24, and what percentage of total sales turnover did it represent?",factual_numeric,hard,0.6,1.0
+fixed__local,Q08,How many days was the number of days of accounts payables for GCPL in FY 2023-24?,factual_numeric,hard,0.6,0.333
+fixed__local,Q09,What was the financial impact of the Greenfield facility investment at Chengalpattu and what is its strategic designation?,factual,medium,0.0,0.0
+fixed__local,Q10,What progress did GCPL make toward its Greener Products goal as part of its sustainability targets for FY 2024-25?,factual,medium,0.6,0.167
+fixed__local,Q11,How has GCPL's consolidated revenue evolved from FY 2022-23 to FY 2024-25?,multi_chunk,hard,0.4,0.4
+fixed__local,Q12,What specific goal did GCPL achieve two years early regarding its 2026 sustainability targets?,factual,medium,1.0,0.2
+fixed__local,Q13,What percentage of GCPL's total energy consumption was derived from renewable sources by FY 2024-25?,factual_numeric,easy,1.0,0.8
+fixed__local,Q14,What was the performance of the Fab liquid detergent brand in its first year?,factual_numeric,easy,1.0,0.6
+fixed__local,Q15,What was the financial impact of the West Africa GTM shift and macro pressures on FY 2024-25 revenue?,inferential,hard,1.0,0.833
+fixed__local,Q16,Which new categories did GCPL enter through the acquisition of Raymond Consumer Care's business?,factual,medium,0.0,0.0
+fixed__local,Q17,How is executive compensation linked to ESG performance at GCPL?,inferential,hard,1.0,0.286
+fixed__local,Q18,What is Project EMBED and what is its population coverage target for FY 2025-26?,factual,medium,1.0,0.6
+fixed__local,Q19,What is GCPL's strategy for rural distribution in India?,inferential,medium,0.4,0.6
+fixed__local,Q20,What digital transformation initiatives has GCPL undertaken across its operations?,inferential,medium,0.4,0.2
+recursive__local,Q01,What major shift in consumer behavior did GCPL observe across its markets during FY 2020-21?,inferential,easy,0.6,0.333
+recursive__local,Q02,When did GCPL conduct the extensive materiality exercise that formed the basis for its reporting methodology in subsequent years?,factual,hard,1.0,0.4
+recursive__local,Q03,What was the percentage of representation for local ethnic talent in GCPL's Africa senior leadership roles during FY 2021-22?,factual_numeric,hard,0.8,1.0
+recursive__local,Q04,How many financial years had GCPL maintained a status of sending zero waste to landfills by the end of FY 2022-23?,factual_numeric,medium,0.8,0.75
+recursive__local,Q05,"How did GCPL's consolidated revenue and volume grow in FY 2022-23, and how did the Chairperson characterize the year's performance?",factual_numeric,medium,0.4,0.167
+recursive__local,Q06,What specific strategic change was implemented in the Indonesia business to simplify sales and distribution during FY 2022-23?,factual,medium,1.0,1.0
+recursive__local,Q07,"What was the total R&D expenditure for GCPL in FY 2023-24, and what percentage of total sales turnover did it represent?",factual_numeric,hard,0.0,0.0
+recursive__local,Q08,How many days was the number of days of accounts payables for GCPL in FY 2023-24?,factual_numeric,hard,0.2,0.333
+recursive__local,Q09,What was the financial impact of the Greenfield facility investment at Chengalpattu and what is its strategic designation?,factual,medium,0.4,0.2
+recursive__local,Q10,What progress did GCPL make toward its Greener Products goal as part of its sustainability targets for FY 2024-25?,factual,medium,0.6,0.167
+recursive__local,Q11,How has GCPL's consolidated revenue evolved from FY 2022-23 to FY 2024-25?,multi_chunk,hard,1.0,0.6
+recursive__local,Q12,What specific goal did GCPL achieve two years early regarding its 2026 sustainability targets?,factual,medium,0.8,0.4
+recursive__local,Q13,What percentage of GCPL's total energy consumption was derived from renewable sources by FY 2024-25?,factual_numeric,easy,1.0,0.8
+recursive__local,Q14,What was the performance of the Fab liquid detergent brand in its first year?,factual_numeric,easy,1.0,0.6
+recursive__local,Q15,What was the financial impact of the West Africa GTM shift and macro pressures on FY 2024-25 revenue?,inferential,hard,1.0,0.333
+recursive__local,Q16,Which new categories did GCPL enter through the acquisition of Raymond Consumer Care's business?,factual,medium,0.8,0.5
+recursive__local,Q17,How is executive compensation linked to ESG performance at GCPL?,inferential,hard,1.0,0.286
+recursive__local,Q18,What is Project EMBED and what is its population coverage target for FY 2025-26?,factual,medium,0.8,1.0
+recursive__local,Q19,What is GCPL's strategy for rural distribution in India?,inferential,medium,0.8,1.0
+recursive__local,Q20,What digital transformation initiatives has GCPL undertaken across its operations?,inferential,medium,0.4,0.4
+fixed__local_v2,Q01,What major shift in consumer behavior did GCPL observe across its markets during FY 2020-21?,inferential,easy,0.2,0.167
+fixed__local_v2,Q02,When did GCPL conduct the extensive materiality exercise that formed the basis for its reporting methodology in subsequent years?,factual,hard,1.0,0.6
+fixed__local_v2,Q03,What was the percentage of representation for local ethnic talent in GCPL's Africa senior leadership roles during FY 2021-22?,factual_numeric,hard,0.8,1.0
+fixed__local_v2,Q04,How many financial years had GCPL maintained a status of sending zero waste to landfills by the end of FY 2022-23?,factual_numeric,medium,1.0,0.75
+fixed__local_v2,Q05,"How did GCPL's consolidated revenue and volume grow in FY 2022-23, and how did the Chairperson characterize the year's performance?",factual_numeric,medium,0.0,0.0
+fixed__local_v2,Q06,What specific strategic change was implemented in the Indonesia business to simplify sales and distribution during FY 2022-23?,factual,medium,1.0,1.0
+fixed__local_v2,Q07,"What was the total R&D expenditure for GCPL in FY 2023-24, and what percentage of total sales turnover did it represent?",factual_numeric,hard,0.8,1.0
+fixed__local_v2,Q08,How many days was the number of days of accounts payables for GCPL in FY 2023-24?,factual_numeric,hard,1.0,0.667
+fixed__local_v2,Q09,What was the financial impact of the Greenfield facility investment at Chengalpattu and what is its strategic designation?,factual,medium,0.4,1.0
+fixed__local_v2,Q10,What progress did GCPL make toward its Greener Products goal as part of its sustainability targets for FY 2024-25?,factual,medium,0.6,0.167
+fixed__local_v2,Q11,How has GCPL's consolidated revenue evolved from FY 2022-23 to FY 2024-25?,multi_chunk,hard,1.0,0.6
+fixed__local_v2,Q12,What specific goal did GCPL achieve two years early regarding its 2026 sustainability targets?,factual,medium,0.6,0.2
+fixed__local_v2,Q13,What percentage of GCPL's total energy consumption was derived from renewable sources by FY 2024-25?,factual_numeric,easy,1.0,0.6
+fixed__local_v2,Q14,What was the performance of the Fab liquid detergent brand in its first year?,factual_numeric,easy,1.0,0.4
+fixed__local_v2,Q15,What was the financial impact of the West Africa GTM shift and macro pressures on FY 2024-25 revenue?,inferential,hard,1.0,0.667
+fixed__local_v2,Q16,Which new categories did GCPL enter through the acquisition of Raymond Consumer Care's business?,factual,medium,1.0,0.5
+fixed__local_v2,Q17,How is executive compensation linked to ESG performance at GCPL?,inferential,hard,0.8,0.571
+fixed__local_v2,Q18,What is Project EMBED and what is its population coverage target for FY 2025-26?,factual,medium,1.0,0.8
+fixed__local_v2,Q19,What is GCPL's strategy for rural distribution in India?,inferential,medium,0.4,0.6
+fixed__local_v2,Q20,What digital transformation initiatives has GCPL undertaken across its operations?,inferential,medium,0.6,0.6
+recursive__local_v2,Q01,What major shift in consumer behavior did GCPL observe across its markets during FY 2020-21?,inferential,easy,0.4,0.333
+recursive__local_v2,Q02,When did GCPL conduct the extensive materiality exercise that formed the basis for its reporting methodology in subsequent years?,factual,hard,1.0,0.4
+recursive__local_v2,Q03,What was the percentage of representation for local ethnic talent in GCPL's Africa senior leadership roles during FY 2021-22?,factual_numeric,hard,0.8,1.0
+recursive__local_v2,Q04,How many financial years had GCPL maintained a status of sending zero waste to landfills by the end of FY 2022-23?,factual_numeric,medium,1.0,0.75
+recursive__local_v2,Q05,"How did GCPL's consolidated revenue and volume grow in FY 2022-23, and how did the Chairperson characterize the year's performance?",factual_numeric,medium,0.2,0.167
+recursive__local_v2,Q06,What specific strategic change was implemented in the Indonesia business to simplify sales and distribution during FY 2022-23?,factual,medium,1.0,1.0
+recursive__local_v2,Q07,"What was the total R&D expenditure for GCPL in FY 2023-24, and what percentage of total sales turnover did it represent?",factual_numeric,hard,0.6,1.0
+recursive__local_v2,Q08,How many days was the number of days of accounts payables for GCPL in FY 2023-24?,factual_numeric,hard,0.6,0.333
+recursive__local_v2,Q09,What was the financial impact of the Greenfield facility investment at Chengalpattu and what is its strategic designation?,factual,medium,0.8,1.0
+recursive__local_v2,Q10,What progress did GCPL make toward its Greener Products goal as part of its sustainability targets for FY 2024-25?,factual,medium,0.4,0.167
+recursive__local_v2,Q11,How has GCPL's consolidated revenue evolved from FY 2022-23 to FY 2024-25?,multi_chunk,hard,0.4,0.2
+recursive__local_v2,Q12,What specific goal did GCPL achieve two years early regarding its 2026 sustainability targets?,factual,medium,0.6,0.4
+recursive__local_v2,Q13,What percentage of GCPL's total energy consumption was derived from renewable sources by FY 2024-25?,factual_numeric,easy,1.0,0.8
+recursive__local_v2,Q14,What was the performance of the Fab liquid detergent brand in its first year?,factual_numeric,easy,0.8,0.6
+recursive__local_v2,Q15,What was the financial impact of the West Africa GTM shift and macro pressures on FY 2024-25 revenue?,inferential,hard,1.0,0.333
+recursive__local_v2,Q16,Which new categories did GCPL enter through the acquisition of Raymond Consumer Care's business?,factual,medium,1.0,0.5
+recursive__local_v2,Q17,How is executive compensation linked to ESG performance at GCPL?,inferential,hard,1.0,0.571
+recursive__local_v2,Q18,What is Project EMBED and what is its population coverage target for FY 2025-26?,factual,medium,1.0,1.0
+recursive__local_v2,Q19,What is GCPL's strategy for rural distribution in India?,inferential,medium,0.8,0.8
+recursive__local_v2,Q20,What digital transformation initiatives has GCPL undertaken across its operations?,inferential,medium,0.6,0.8
